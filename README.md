@@ -5,7 +5,7 @@ SPDX-License-Identifier: GPL-2.0-or-later
 
 <h1 align="center">
   <br>
-  <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/TropicEmus/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
+  <a href="https://naylahanegan.com/yuja/"><img src="https://raw.githubusercontent.com/TropicEmus/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
   <br>
   <b>yuja</b>
   <h3 align="center">A fork of yuzu, with reimplemented multiplayer support</h3>
